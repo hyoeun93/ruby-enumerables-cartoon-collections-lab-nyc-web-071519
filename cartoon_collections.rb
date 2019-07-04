@@ -23,4 +23,5 @@ def find_the_cheese(array)
     |cheese|
     return cheese if array.include?(cheese)
   }
+  nil 
 end
