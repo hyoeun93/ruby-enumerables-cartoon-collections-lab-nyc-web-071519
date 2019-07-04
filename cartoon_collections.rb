@@ -5,7 +5,10 @@ def roll_call_dwarves(array)
   }
 end
 
-def summon_captain_planet# code an argument here
+def summon_captain_planet(array)
+  array.map{
+    |elem| 
+  }
   # Your code here
 end
 
