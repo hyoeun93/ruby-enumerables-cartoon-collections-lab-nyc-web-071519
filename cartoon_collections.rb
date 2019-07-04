@@ -1,4 +1,7 @@
-def roll_call_dwarves# code an argument here
+def roll_call_dwarves(names)
+  names.collect{
+    |name| puts name
+  }
   # Your code here
 end
 
