@@ -7,7 +7,7 @@ end
 
 def summon_captain_planet(array)
   array.map{
-    |elem| 
+    |elem| elem.
   }
   # Your code here
 end
