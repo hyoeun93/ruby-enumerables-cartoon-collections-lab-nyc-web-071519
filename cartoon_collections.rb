@@ -1,7 +1,5 @@
-def roll_call_dwarves(names)
-  names.collect{
-    |name| puts 1. name
-  }
+def roll_call_dwarves(array)
+  
 end
 
 def summon_captain_planet# code an argument here
